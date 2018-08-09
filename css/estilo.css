@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/*
+.menu {
+    height: 60px;
+    width: 100%;
+    background-color: #90caf9;
+    margin: auto;
+    padding: auto;
+    font-family: "Adobe Arabic";
+    font-size: 30px;
+    text-decoration: none;
+
+}
+
+.menu ul li {
+    display: inline;
+    padding: 0px;
+    display: inline;
+    margin: auto;
+}
+
+.menu ul {
+    padding: 5px;
+
+    display: inline;
+    text-align: left;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.menu ul, li, a {
+
+    text-decoration: none;
+    list-style-type: none;
+}
+
+*/
+
+.titulo h1 {
+    font-size: 35px;
+    font-family: "Adobe Arabic";
+}
+
+table {
+    background: #fff;
+    border-collapse: collapse;
+    text-align: left;
+
+}
+
+td {
+    height: 30px;
+    align-content: center;
+
+}
+
+th {
+    width: 100px;
+
+
+}
+
+.actions{
+
+}
+.id-table {
+    width: 30px;
+
+}
+
+.tabela {
+    alignment: center;
+    width: 550px;
+    margin-top: 0px;
+
+    display: block;
+
+}
+
+.col-head {
+    color: #95CAE4;
+    font-size: large;
+    align-content: center;
+}
+.tbody {
+    padding: 5px;
+
+}
