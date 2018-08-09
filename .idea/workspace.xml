@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bff35d0-974b-4ce1-8b58-ecd38f4db750" name="Default" comment="Adicionei um Teste no GIT2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/section.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/section.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/inc/section.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -289,7 +288,7 @@
       <workItem from="1532871473263" duration="548000" />
       <workItem from="1533048633160" duration="1103000" />
       <workItem from="1533847484710" duration="1000" />
-      <workItem from="1533847803836" duration="366000" />
+      <workItem from="1533847803836" duration="519000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionei um Teste no GIT">
       <created>1533848027693</created>
@@ -309,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55779000" />
+    <option name="totallyTimeSpent" value="55932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -489,7 +488,7 @@
     <entry file="file://$PROJECT_DIR$/inc/section.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
