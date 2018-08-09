@@ -4,6 +4,4 @@
             height: 550px;
         }
     </Style>
-
-    
 </section>
